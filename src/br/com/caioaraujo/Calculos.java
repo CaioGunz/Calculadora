@@ -8,7 +8,7 @@ public class Calculos {
 	public static void main(String[] args) {
 		
 		Calculos c = new Calculos();
-		System.out.println(">>>>" + c.calculadora("5/5"));
+		System.out.println(">>>> " + c.calculadora("5/5"));
 	}
 	
 	public String calculadora(String expressao) {
